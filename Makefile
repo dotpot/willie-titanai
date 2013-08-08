@@ -1,4 +1,5 @@
 # sets up the virtual environment
+# file not ready
 setup: venv/_venv_setup_done venv/_venv_packages_installed
 
 clean:
